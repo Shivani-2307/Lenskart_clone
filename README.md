@@ -1,2 +1,2 @@
 # Lenskart_clone
-This is the Lenskart clone
+Built a front-end clone of the Lenskart e-commerce website using HTML, CSS and JavaScript.
